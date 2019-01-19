@@ -4,6 +4,7 @@ import java.util.Random;
 
 public class RunnerDouble extends Thread {
 
+    @Override
 public void run(){
     for (int i=0; i<5;i++) {
         int wynik;
