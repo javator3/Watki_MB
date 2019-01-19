@@ -29,10 +29,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-        RunnerDouble runnerDouble = new RunnerDouble();
-        RunnerDouble runnerDouble1 = new RunnerDouble();
-        runnerDouble.start();
-        runnerDouble1.start();
+//        RunnerDouble runnerDouble = new RunnerDouble();
+//        RunnerDouble runnerDouble1 = new RunnerDouble();
+//        runnerDouble.start();
+//        runnerDouble1.start();
 
 //        Thread thread = new Thread(new Runner());
 //        Thread thread1 = new Thread(new Runner());
